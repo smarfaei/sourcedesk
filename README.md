@@ -12,6 +12,8 @@ A document-grounded support prototype exploring a practical business automation 
 
 ## Demo
 
+[Try the live demo →](https://smarfaei.github.io/sourcedesk/)
+
 Open `index.html` locally, or use the live website linked in this repository's **About** section after GitHub Pages is enabled. No installation or API key is needed.
 
 ## The problem
